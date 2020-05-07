@@ -3,6 +3,7 @@
 This repo contains the full backtests resources for the all weather portfolio as described in: http://www.lazyportfolioetf.com/allocation/ray-dalio-all-weather/
 
 A conda environment set with zipline and pyfolio should be configured beforehand:
+
 *conda install -u Quantopian zipline
 
 *pip install pyfolio
