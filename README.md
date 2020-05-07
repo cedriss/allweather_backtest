@@ -4,7 +4,9 @@ This repo contains the full backtests resources for the all weather portfolio as
 
 A conda environment set with zipline and pyfolio should be configured beforehand:
 *conda install -u Quantopian zipline
+
 *pip install pyfolio
+
 *pip install jupyter
 
 Then, csv data should be downloaded using download_csv.ipynb script.
